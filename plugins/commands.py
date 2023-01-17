@@ -28,10 +28,11 @@ async def start(client, message):
                     InlineKeyboardButton('⌬ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK)
                 ],[
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
-                    InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about'),
-                    InlineKeyboardButton('Iɴʟɪɴᴇ Sᴇᴀʀᴄʜ ☌', switch_inline_query_current_chat='')
+                    InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
                 ],[
-                    InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
+                    InlineKeyboardButton('֎ ʙᴀᴄᴋᴜᴘ ɢʀᴏᴜᴘ ֍', url=f'https://t.me/+WnZsXs_fNoM2M2U1')
+                ],[
+                    InlineKeyboardButton('✇ Jᴏɪɴ ᴍᴀɪɴ Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply(script.START_TXT.format(message.from_user.mention if message.from_user else message.chat.title, temp.U_NAME, temp.B_NAME), reply_markup=reply_markup)
@@ -52,7 +53,8 @@ async def start(client, message):
                     InlineKeyboardButton('⌬ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK)
                 ],[
                     InlineKeyboardButton('〄 Hᴇʟᴘ', callback_data='help'),
-                    InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about'),
+                    InlineKeyboardButton('⍟ Aʙᴏᴜᴛ', callback_data='about')
+                ],[
                     InlineKeyboardButton('Iɴʟɪɴᴇ Sᴇᴀʀᴄʜ ☌', switch_inline_query_current_chat='')
                 ],[
                     InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
