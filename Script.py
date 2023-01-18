@@ -193,15 +193,10 @@ Nᴀᴍᴇ - {}"""
     CAPTION = """
 <b>Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 
-<b>
-╭─────── • ◆ • ───────╮
-🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/addtheme/DQ_The_File_Donor_Theme">Tᴏᴜᴄʜ</a>
-╰─────── • ◆ • ───────╯
-
-=========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @Sky_LinkZ
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : t.me/+ei9cg_OsVo81YjQ1
-=========== • ✠ • ===========</b>"""
+<b>•────•────────•────•
+🔆 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://telegram.dog/+ei9cg_OsVo81YjQ1)
+🌟 ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/Sky_LinkZ)
+</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
