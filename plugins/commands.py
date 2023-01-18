@@ -161,7 +161,7 @@ async def start(client, message):
                           InlineKeyboardButton('ʙᴀᴄᴋ ᴜᴘ Gʀᴏᴜᴘ', url=GRP_LNK),
                           InlineKeyboardButton('ᴍᴀɪɴ Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="https://t.me/Movie_AdminContact_Bot")
+                          InlineKeyboardButton('❌ ᴅᴇʟᴇᴛᴇ ❌', callback_data='close_data')
                          ]
                         ]
                     )
@@ -180,7 +180,7 @@ async def start(client, message):
                           InlineKeyboardButton('ʙᴀᴄᴋ ᴜᴘ ɢʀᴏᴜᴘ', url=GRP_LNK),
                           InlineKeyboardButton('ᴍᴀɪɴ Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                        ],[
-                          InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="https://t.me/Movie_AdminContact_Bot")
+                          InlineKeyboardButton('❌ ᴅᴇʟᴇᴛᴇ ❌', callback_data='close_data')
                          ]
                         ]
                     )
@@ -251,7 +251,7 @@ async def start(client, message):
                       InlineKeyboardButton('ʙᴀᴄᴋ ᴜᴘ Gʀᴏᴜᴘ', url=GRP_LNK),
                       InlineKeyboardButton('ᴍᴀɪɴ Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                    ],[
-                      InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="https://t.me/Movie_AdminContact_Bot")
+                      InlineKeyboardButton('❌ ᴅᴇʟᴇᴛᴇ ❌', callback_data='close_data')
                      ]
                     ]
                 )
@@ -294,7 +294,7 @@ async def start(client, message):
               InlineKeyboardButton('ʙᴀᴄᴋ ᴜᴘ ɢʀᴏᴜᴘ', url=GRP_LNK),
               InlineKeyboardButton('ᴍᴀɪɴ Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
            ],[
-              InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="https://t.me/Movie_AdminContact_Bot")
+              InlineKeyboardButton('❌ ᴅᴇʟᴇᴛᴇ ❌', callback_data='close_data')
              ]
             ]
         )
