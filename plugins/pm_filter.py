@@ -565,10 +565,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
                         reply_markup=InlineKeyboardMarkup(
                             [
                              [
-                              InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
-                              InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
+                              InlineKeyboardButton('ʙᴀᴄᴋ ᴜᴘ Gʀᴏᴜᴘ', url=GRP_LNK),
+                              InlineKeyboardButton('ᴍᴀɪɴ Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
                            ],[
-                              InlineKeyboardButton('Delete', callback_data='close_data')
+                              InlineKeyboardButton('❌ ᴅᴇʟᴇᴛᴇ ❌', callback_data='close_data')
                              ]
                             ]
                         )
@@ -613,10 +613,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                  InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
-                  InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
+                  InlineKeyboardButton('ʙᴀᴄᴋ ᴜᴘ Gʀᴏᴜᴘ', url=GRP_LNK),
+                  InlineKeyboardButton('ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ', url=CHNL_LNK)
                ],[
-                  InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/creatorbeatz")
+                  InlineKeyboardButton('❌ ᴅᴇʟᴇᴛᴇ ❌', callback_data='close_data')
                  ]
                 ]
             )
