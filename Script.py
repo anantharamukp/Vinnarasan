@@ -148,9 +148,9 @@ Nᴀᴍᴇ - {}"""
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : 𒆜 Sᴘʏ Sᴘɪᴅᴇʏ࿐
-• ᴜꜱᴇʀɴᴀᴍᴇ : @SpySpidey
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/Movie_AdminContact_Bot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ꜰᴜʟʟ ɴᴀᴍᴇ : 𒆜 𝚔𝚊𝚟𝚒𝚗 ࿐
+• ᴜꜱᴇʀɴᴀᴍᴇ : @KKmoviesLINK
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/KKmoviesLINK'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
@@ -191,11 +191,11 @@ Nᴀᴍᴇ - {}"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<b>"[{file_name}](https://telegram.dog/+ei9cg_OsVo81YjQ1)</b>"
+<b>"[{file_name}](https://t.me/+Os2578f6UgcwMGJl)</b>"
 
 <b>•────•────────•────•
-🔆 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+WnZsXs_fNoM2M2U1)
-🌟 ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/Sky_LinkZ)
+🔆 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+Os2578f6UgcwMGJl)
+🌟 ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/k_k_movies)
 •────•────────•────•
 ⚙ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [𒆜 Sᴘʏ Sᴘɪᴅᴇʏ࿐](https://t.me/Movie_AdminContact_Bot)
 
