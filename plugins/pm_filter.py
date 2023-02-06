@@ -269,7 +269,7 @@ async def next_page(bot, query):
                     ],
                 )
     btn.insert(0, [
-        InlineKeyboardButton("🍁 ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🍁", url=f"https://t.me/KK_Movies_Official/17")
+        InlineKeyboardButton("🍁 ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🍁", url=f"https://t.me/How_To_Download_URL/86")
     ])
     try:
         await query.edit_message_reply_markup(
@@ -1407,7 +1407,7 @@ async def auto_filter(client, msg, spoll=False):
             )
 
     btn.insert(0, [
-        InlineKeyboardButton("🍁 ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🍁", url=f"https://t.me/KK_Movies_Official/17")
+        InlineKeyboardButton("🍁 ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🍁", url=f"https://t.me/How_To_Download_URL/86")
     ])
 
     if offset != "":
