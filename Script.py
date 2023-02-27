@@ -191,11 +191,11 @@ Nᴀᴍᴇ - {}"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<b>"[{file_name}](https://t.me/+Os2578f6UgcwMGJl)</b>"
+<b>[{file_name}](https://t.me/movierequest_KK)</b>
 
 <b>•────•────────•────•
-🔆 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+Os2578f6UgcwMGJl)
-🌟 ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/k_k_movies)
+🔆 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+7nm9SmaZdxtmYTE1)
+🌟 ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/KK_LinkZ)
 •────•────────•────•
 ⚙ ᴘᴏᴡᴇʀᴇᴅ ʙʏ : [𒆜ᴋᴀᴠɪɴ࿐](https://t.me/KKmoviesLINK)
 
